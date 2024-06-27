@@ -22,9 +22,10 @@ This is movie recommender system. It has a machine learning model which detects 
 You can see a live demo of the project [here](https://movierecommendersystem-hkibqqbgs3pkkmfev9qchv.streamlit.app/).
 
 ## Installation
-User can run the project easily using pycharm in your desktop. Type the code
-streamlit run app.py
-to run the code
+User can run the project easily using pycharm in your desktop. Type the code to run the code.
+     ```sh
+        streamlit run app.py
+
 
 ## Prerequisites
 List any prerequisites here, for example:
