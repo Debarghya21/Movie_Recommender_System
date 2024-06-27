@@ -23,8 +23,8 @@ You can see a live demo of the project [here](https://movierecommendersystem-hki
 
 ## Installation
 User can run the project easily using pycharm in your desktop. Type the code to run the code.
-     ```sh
-        streamlit run app.py
+      ```bash
+      streamlit run app.py
 
 
 ## Prerequisites
